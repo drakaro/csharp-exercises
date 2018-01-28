@@ -8,7 +8,7 @@ namespace MilesPerGallon
         {
             int miles, gallon;
             Console.WriteLine("To Calculate your miles per gallon");
-            Console.WriteLine("Please enter how amny miles you've driven: ");
+            Console.WriteLine("Please enter how many miles you've driven: ");
             miles = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("PLease enter how many gallons of gas you've used: ");
             gallon = Convert.ToInt32(Console.ReadLine());

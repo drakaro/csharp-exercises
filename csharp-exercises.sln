@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumericTypes", "NumericType
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{0167C4E6-F55E-4136-A7BD-978D416F2C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceWonderland", "AliceWonderland\AliceWonderland.csproj", "{97EE5BFF-EB78-41F8-9C61-44B715D958F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliceWonderland", "AliceWonderland\AliceWonderland.csproj", "{97EE5BFF-EB78-41F8-9C61-44B715D958F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{B62BC3F2-E90B-484C-8B55-359BF4C6481F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +76,10 @@ Global
 		{97EE5BFF-EB78-41F8-9C61-44B715D958F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97EE5BFF-EB78-41F8-9C61-44B715D958F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97EE5BFF-EB78-41F8-9C61-44B715D958F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62BC3F2-E90B-484C-8B55-359BF4C6481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62BC3F2-E90B-484C-8B55-359BF4C6481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62BC3F2-E90B-484C-8B55-359BF4C6481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62BC3F2-E90B-484C-8B55-359BF4C6481F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
