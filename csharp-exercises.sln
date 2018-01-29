@@ -36,6 +36,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndStrings", "ListAndSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListEven", "ListEven\ListEven.csproj", "{5D1C5AC3-815C-4FCB-85DE-9D4E18C6B487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7B2D9639-47C3-4CAE-B332-A2A6F27CB905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseMVC", "CheeseMVC\CheeseMVC.csproj", "{4985FDD3-76F8-472F-8741-5E367AEE7860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +114,14 @@ Global
 		{5D1C5AC3-815C-4FCB-85DE-9D4E18C6B487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1C5AC3-815C-4FCB-85DE-9D4E18C6B487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1C5AC3-815C-4FCB-85DE-9D4E18C6B487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2D9639-47C3-4CAE-B332-A2A6F27CB905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2D9639-47C3-4CAE-B332-A2A6F27CB905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2D9639-47C3-4CAE-B332-A2A6F27CB905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2D9639-47C3-4CAE-B332-A2A6F27CB905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4985FDD3-76F8-472F-8741-5E367AEE7860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4985FDD3-76F8-472F-8741-5E367AEE7860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4985FDD3-76F8-472F-8741-5E367AEE7860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4985FDD3-76F8-472F-8741-5E367AEE7860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
